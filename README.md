@@ -1,0 +1,1 @@
+A robust implementation of a multi-tool conversational agent using LangChain and Deepseek. This agent autonomously decides when to call external APIs for factual data versus relying on its internal knowledge.

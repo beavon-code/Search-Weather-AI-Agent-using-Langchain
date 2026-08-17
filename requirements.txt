@@ -12,3 +12,5 @@ langgraph-checkpoint==4.1.1
 langgraph-prebuilt==1.1.0
 langgraph-sdk==0.4.2
 langsmith==0.10.15
+streamlit==1.61.1
+tavily-python==0.7.27
